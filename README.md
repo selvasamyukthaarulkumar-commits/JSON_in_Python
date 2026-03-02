@@ -17,6 +17,6 @@ Task 1 : Read files and print total books.
  - Used ' append()' method to add new book to list.
  - Used 'json.dump()' with 'indent=4' to save updated data. 
 
- 
+
 Task 3 : Displayed all books 
-- Used for loop to iteratethrough books.
+- Used for loop to iterate through books.
