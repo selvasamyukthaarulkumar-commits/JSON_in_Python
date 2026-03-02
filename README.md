@@ -10,9 +10,13 @@ Task 1 : Read files and print total books.
  - Used 'with open()' to open the file
  - Used 'JSON.load()' to convert JSON data into python list.
  - Printed total number of book using         'len()' function.
+
+
  Task 2 : Added new book ans saved file.
  - Created a new book dictionary.
  - Used ' append()' method to add new book to list.
  - Used 'json.dump()' with 'indent=4' to save updated data. 
+
+ 
 Task 3 : Displayed all books 
 - Used for loop to iteratethrough books.
